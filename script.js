@@ -130,7 +130,7 @@ let product = [
     },
     {
         id:10,
-        img: "./image/Ac2.jpg",
+        img: "./image/AC2.jpg",
         name:"Kenwood Inverter",
         datail: " KENWOOD Inverter AC 1.5 Ton e Luxury KEL-1844S - 75% Energy Saving - with Wi-Fi Free Voice Control",
         subimg1:"./image/AC2.jpg",
